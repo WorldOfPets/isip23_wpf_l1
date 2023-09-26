@@ -101,10 +101,6 @@
     <Resource Include="source\login_page.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="source\crest.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="source\crest1.svg" />
     <Resource Include="source\crest2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

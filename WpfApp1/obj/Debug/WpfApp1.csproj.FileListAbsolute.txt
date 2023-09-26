@@ -15,4 +15,3 @@ C:\Users\Polivanov.E.D\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Cor
 C:\Users\Polivanov.E.D\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\Polivanov.E.D\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
 C:\Users\Polivanov.E.D\source\repos\WpfApp1\WpfApp1\obj\Debug\App.baml
-C:\Users\Polivanov.E.D\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
